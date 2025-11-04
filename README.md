@@ -1,0 +1,2 @@
+<img width="516" height="699" alt="image" src="https://github.com/user-attachments/assets/d4b4265c-6071-4f87-aa96-ece29fee2563" />
+Program di atas berfungsi untuk meminta pengguna memasukkan jumlah siswa di kelas, kemudian menginput nilai ujian masing-masing siswa. Setelah semua data dimasukkan, program akan menghitung dan menampilkan hasil akhirnya berupa rata-rata nilai ujian kelas pada mata pelajaran RPL.
